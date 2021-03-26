@@ -294,7 +294,7 @@ python-utils==2.4.0
 pytz==2018.9
 pyviz-comms==0.7.6
 PyWavelets==1.1.1
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==19.0.2
 qtconsole==4.7.6
 QtPy==1.9.0
