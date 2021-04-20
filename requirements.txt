@@ -257,7 +257,7 @@ protobuf==3.12.4
 psutil==5.6.6
 psycopg2==2.7.6.1
 ptyprocess==0.6.0
-py==1.9.0
+py==1.10.0
 pyarrow==0.14.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
