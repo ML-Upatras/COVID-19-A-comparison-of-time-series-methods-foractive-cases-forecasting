@@ -13,7 +13,7 @@ atspy==0.2.8
 attrs==20.1.0
 audioread==2.1.8
 autograd==1.3
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.2.0
 beautifulsoup4==4.6.3
 bleach==3.3.0
