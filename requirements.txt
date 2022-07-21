@@ -376,7 +376,7 @@ tzlocal==1.5.1
 ujson==1.35
 umap-learn==0.4.6
 uritemplate==3.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 vega-datasets==0.8.0
 wasabi==0.7.1
 wcwidth==0.2.5
